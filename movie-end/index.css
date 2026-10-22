@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-VariableFont_wght.woff') format('woff2');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif; 
+  background-color: rgb(115, 49, 49); 
+  color: black;
+}
+
+.center_ele {
+  display: flex;
+  align-items: center;
+}
