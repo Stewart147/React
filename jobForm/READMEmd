@@ -1,0 +1,3 @@
+This React project creates a basic form template for creating the display for adding a job and the job name and status.
+  The project can be viewed by typing in the command npm start into the terminal and accessing the localhost
+server address: http://localhost:3000
