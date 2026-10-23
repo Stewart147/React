@@ -1,0 +1,8 @@
+This React project is another iteration of the password-gen project. It generates letters lowercase and uppercase and
+has toggle buttons to select numbers or special characters. The password has a maximum length of 100 characters.
+The display of this password generator is styled and will show an error message if special characters or numbers
+are not included in the password. You also have a copy password option and when copied a copied message is displayed.
+To view this project, type in the following commands in the terminal:
+cd password-gen
+npm run dev
+To access localhost server address: http://localhost:5173
