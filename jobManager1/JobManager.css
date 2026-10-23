@@ -1,0 +1,27 @@
+
+.job-manager {
+    margin: 100 auto;
+}
+
+form {
+    margin: 100px 0px;
+}
+
+input, select, button {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 6px;
+    margin-right: 10px;
+}
+
+
+
+
+
+.job-columns {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: wheat;
+    width: auto;
+    height: auto;
+}
